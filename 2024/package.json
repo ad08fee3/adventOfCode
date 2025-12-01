@@ -13,14 +13,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mozilla2012/adventOfCode.git"
+        "url": "git+https://github.com/ad08fee3/adventOfCode.git"
     },
     "author": "Evan Arnold",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/mozilla2012/adventOfCode/issues"
+        "url": "https://github.com/ad08fee3/adventOfCode/issues"
     },
-    "homepage": "https://github.com/mozilla2012/adventOfCode#readme",
+    "homepage": "https://github.com/ad08fee3/adventOfCode#readme",
     "dependencies": {
         "json-stable-stringify": "^1.2.0",
         "node": "^20.18.1"
