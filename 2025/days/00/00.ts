@@ -1,4 +1,4 @@
-// https://adventofcode.com/2024/day/0
+// https://adventofcode.com/2025/day/0
 
 import { Grid } from "../../util/Grid";
 
