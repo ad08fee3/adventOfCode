@@ -15,7 +15,7 @@
         "type": "git",
         "url": "git+https://github.com/ad08fee3/adventOfCode.git"
     },
-    "author": "Evan Arnold",
+    "private": true,
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/ad08fee3/adventOfCode/issues"
